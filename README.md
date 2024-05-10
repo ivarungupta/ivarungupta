@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEnoX96HawkoQ/profile-displaybackgroundimage-shrink_350_1400/0/1708166099745?e=1720656000&v=beta&t=R7kHscuHKFUkS05nCoZKYDAhYZ4vYYukoH4hfV_oZpw)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEnoX96HawkoQ/profile-displaybackgroundimage-shrink_350_1400/0/1708166099745?e=1720656000&v=beta&t=R7kHscuHKFUkS05nCoZKYDAhYZ4vYYukoH4hfV_oZpw)
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
 <h3 align="center">ecletic-minded | CS @ BIT Mesra'26 | SWE Intern @ Omifco, Oman | Intern @ Precap, India | Front-End Developer | Graphic Designer | ACM | EDC</h3>
 
