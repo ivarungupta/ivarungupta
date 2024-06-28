@@ -1,12 +1,12 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEnoX96HawkoQ/profile-displaybackgroundimage-shrink_350_1400/0/1708166099745?e=1720656000&v=beta&t=R7kHscuHKFUkS05nCoZKYDAhYZ4vYYukoH4hfV_oZpw)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQE1MEQv0CUDgw/profile-displaybackgroundimage-shrink_350_1400/0/1718743833608?e=1724889600&v=beta&t=ZCHKIC5Fe7nTzY0981VyY9E1W3VYImHlyxBjiFFF8Bk)
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
-<h3 align="center">ecletic-minded | CS @ BIT Mesra'26 | SWE Intern @ Omifco, Oman | Intern @ Precap, India | Front-End Developer | Graphic Designer | ACM | EDC</h3>
+<h3 align="center">ecletic-minded | CS @ BIT Mesra'26 | Software Intern @ Omifco, Oman | Product Intern @ Precap, India | MERN Developer | Graphic Designer | ACM | EDC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contactvarungupta&label=Profile%20views&color=0e75b6&style=flat" alt="contactvarungupta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/varunn_gupta" target="blank"><img src="https://img.shields.io/twitter/follow/varunn_gupta?logo=twitter&style=for-the-badge" alt="varunn_gupta" /></a> </p>
 
-- 📫 How to reach me **contactvarungupta7@gmail.com**
+- 📫 How to reach me **ivarungupta7@gmail.com**
 
 - ⚡ Fun fact **I love my college XD**
 
