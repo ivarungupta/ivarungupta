@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQE1MEQv0CUDgw/profile-displaybackgroundimage-shrink_350_1400/0/1718743833608?e=1724889600&v=beta&t=ZCHKIC5Fe7nTzY0981VyY9E1W3VYImHlyxBjiFFF8Bk)
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
-<h3 align="center">ecletic-minded | CS @ BIT Mesra'26 | Software Intern @ Omifco, Oman | Product Intern @ Precap, India | MERN Developer | Graphic Designer | ACM | EDC</h3>
+<h3 align="center">ecletic-minded | CSE @ BIT Mesra'26 | Software Intern @ Omifco, Oman | Product Intern @ Precap, India | MERN Developer | Graphic Designer | ACM | EDC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivarungupta&label=Profile%20views&color=0e75b6&style=flat" alt="ivarungupta" /> </p>
 
