@@ -25,9 +25,9 @@
 -->
 <p><img align="left" width="100px" src="https://github-readme-stats.vercel.app/api?username=ivarungupta&show_icons=true&locale=en" alt="ivarungupta" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ivarungupta&" alt="ivarungupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivarungupta&" alt="ivarungupta" /></p>
 
-<br>
+
 ### 📈 Activity Graph
 
 <p align="center">
