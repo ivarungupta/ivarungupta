@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQE1MEQv0CUDgw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718743833608?e=1730332800&v=beta&t=pKbg_UmWVsTPvF_vu7gZEH08Fq19WahNiu6nDzsAdw8) -->
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
-<h3 align="center">ecletic-minded | CSE @ BIT Mesra'26 | Ex-Software Intern @ Omifco, Oman | Product Intern @ Precap, India | Treasurer @ ACM BIT Mesra | MERN Stack Developer | Graphic Designer </h3>
+<h3 align="center">ecletic-minded | CSE @ BIT Mesra'26 | Quantitative Developer Intern @ 2CentsCapital | Prev : Omifco, Precap | MERN Developer | Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivarungupta&label=Profile%20views&color=0e75b6&style=flat" alt="ivarungupta" /> </p>
 
