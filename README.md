@@ -1,4 +1,6 @@
 <!-- ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQE1MEQv0CUDgw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718743833608?e=1730332800&v=beta&t=pKbg_UmWVsTPvF_vu7gZEH08Fq19WahNiu6nDzsAdw8) -->
+
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEE2rigd1H36Q/profile-displaybackgroundimage-shrink_350_1400/B56Zb5.vTeHwAc-/0/1747950699875?e=1753315200&v=beta&t=Zdk0Dp2wJW2NJxdvE-AQ6f8VGSCjWo5I2XsdpBIaudc) 
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
 <h3 align="center">Summer Intern @ Wells Fargo | BIT Mesra (CSE) | Ex-Quant Developer Intern @ 2CentsCapital | Prev : Omifco, Precap | MERN Developer | Specialist @ CF</h3>
 
@@ -15,7 +17,6 @@
 <a href="https://twitter.com/varunn_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunn_gupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ivarung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactvarungupta" height="30" width="40" /></a>
 <a href="https://instagram.com/varunngupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunngupta" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/varunnguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="varunngupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
